@@ -31,7 +31,7 @@ Step 06
 Create an image from the container and push it to the amazon ECR
 
 Step 07
- **** Create multiple containers using the image****
+Create multiple containers using the image
  
 Step 08
 Create mail service ( if script detect any errors a mail will send to the support team)
