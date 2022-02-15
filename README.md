@@ -1,6 +1,6 @@
 # aws-docker
 
-What does my application do?
+# What does my application do?
 
 Get the local time from one of the docker containers and get current time from http://worldtimeapi.org/ and return the following values from an api.
 * Container ‘s local time
@@ -9,7 +9,7 @@ Get the local time from one of the docker containers and get current time from h
 * Container id
 
 
-How do I build it?
+# How do I build it?
 
 Step 01  
 First I have created a python script to get the local time and get the current time from http://worldtimeapi.org/. 
