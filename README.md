@@ -3,10 +3,10 @@
 What does my application do?
 
 Get the local time from one of the docker containers and get current time from http://worldtimeapi.org/ and return the following values from an api.
-Container ‘s local time
-Current time
-Container Ip
-Container id
+* Container ‘s local time
+* Current time
+* Container Ip
+* Container id
 
 
 How do I build it?
@@ -29,10 +29,13 @@ Install aws cli in the docker container
 
 Step 06
 Create an image from the container and push it to the amazon ECR
+
 Step 07
- **** Create multiple containers using the image
+ **** Create multiple containers using the image****
+ 
 Step 08
 Create mail service ( if script detect any errors a mail will send to the support team)
+
 Step 09
 Configure logging mechanism
 
@@ -40,7 +43,7 @@ Step 10
 Check the results by typing http://34.201.65.107:8083/ in your browser
 
 
-All the steps were described in the setup file.
+***All the steps were described in the setup.docx file.
 
 
 
